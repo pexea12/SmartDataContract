@@ -15,6 +15,7 @@
 ```
 SDC.deployed().then((instance) => {
   instance.createSDC(..) // create a new contract
+
 })`
 ```
 
